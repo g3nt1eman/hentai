@@ -27,7 +27,7 @@ content:
       sites:
         - name: Greasy Fork
           url: https://greasyfork.org/zh-CN
-         - name: Sleazy Fork
+        - name: Sleazy Fork
           url: https://sleazyfork.org/zh-CN
         - name: Telegraph
           url: https://telegra.ph/
@@ -131,9 +131,9 @@ content:
           url: http://sexinsex.net/bbs/index.php
         - name: SiS001
           url: https://sis001.com/forum/index.php
-         - name: 草榴社區
+        - name: 草榴社區
           url: http://t66y.com/index.php         
-         - name: 1024核工厂
+        - name: 1024核工厂
           url: http://1024xp.com/  
         - name: 2048核基地
           url: https://m1.lto5.xyz/2048/
